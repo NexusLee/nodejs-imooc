@@ -1,0 +1,35 @@
+{
+  "name": "nodejs-imooc",
+  "version": "0.0.1",
+  "description": "imooc movie",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.0.2",
+    "express": "^4.11.1",
+    "hooks": "^0.3.2",
+    "moment": "^2.9.0",
+    "mongoose": "^3.8.22",
+    "mpath": "^0.2.1",
+    "mpromise": "^0.5.5",
+    "mquery": "^1.3.0",
+    "ms": "^0.7.0",
+    "muri": "^1.0.0",
+    "regexp-clone": "^0.0.1",
+    "sliced": "^0.0.5",
+    "underscore": "^1.7.0",
+    "jade": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [
+    "imooc"
+  ],
+  "author": "nexus",
+  "license": "ISC"
+}
